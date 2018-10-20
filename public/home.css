@@ -1,0 +1,38 @@
+h1 {
+
+    text-align: center;
+
+}
+
+body {
+
+    background-color: black;
+    color:orange;
+}
+.jumbotron {
+    background-color: black; 
+    color: orange;
+}
+
+#but {
+    background-color: black;
+    color:orange;
+    border-color: orange;
+}
+
+#username {
+    background-color: black;
+    color:orange;
+    border-color: orange;
+}
+
+#mypassword {
+    background-color: black;
+    color:orange;
+    border-color: orange;
+}
+
+#end {
+    text-align: center;
+    font-size: 18px;
+}
